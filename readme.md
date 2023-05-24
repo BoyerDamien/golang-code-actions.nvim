@@ -34,6 +34,10 @@ in order to facilitate the golang workflow and complete the missing features of 
 
 ![gen-all-tests](./img/gen-all-tests.gif)
 
+## Key bindings
+
+`<leader>ca`: open code code-actions floating window
+
 [nvim-treesitter]: https://github.com/nvim-treesitter/nvim-treesitter
 [null-ls]: https://github.com/jose-elias-alvarez/null-ls.nvim
 [golang-website]: https://go.dev
