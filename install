@@ -1,4 +1,10 @@
 #!/bin/bash
 
+if  !command -v go &> /dev/null
+then
+    echo "go cli could not be found. Please refer to https://go.dev/doc/install to install golang"
+    exit
+fi
+
 # Install golang dependencies
 go install github.com/cweill/gotests/gotests@latest
