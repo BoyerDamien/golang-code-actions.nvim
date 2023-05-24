@@ -5,7 +5,6 @@ function m.setup()
 
   nl.register({
     require("golang-code-actions.testing"),
-    require("golang-code-actions.utils")
   })
 end
 
