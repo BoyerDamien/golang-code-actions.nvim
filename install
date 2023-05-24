@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Install golang dependencies
+go install github.com/cweill/gotests/gotests@latest
