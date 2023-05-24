@@ -32,7 +32,7 @@ in order to facilitate the golang workflow and complete the missing features of 
 
 ### Unit-tests generation
 
-![gen-all-tests](./gen-all-tests.gif)
+![gen-all-tests](./img/gen-all-tests.gif)
 
 [nvim-treesitter]: https://github.com/nvim-treesitter/nvim-treesitter
 [null-ls]: https://github.com/jose-elias-alvarez/null-ls.nvim
