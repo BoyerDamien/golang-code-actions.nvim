@@ -2,7 +2,7 @@
     "workspace.library": [
         "/Users/dboyer/.local/share/nvim/lazy/neodev.nvim/types/stable",
         "/opt/homebrew/Cellar/neovim/0.9.0/share/nvim/runtime/lua",
-        "/Users/dboyer/code/golang-code-action.nvim/lua",
-        "/Users/dboyer/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/2a1dd3cb"
+        "/Users/dboyer/code/golang-code-actions.nvim/lua",
+        "/Users/dboyer/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/77c4766f"
     ]
 }
